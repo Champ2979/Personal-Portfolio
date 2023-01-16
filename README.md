@@ -6,7 +6,7 @@ Basic code for your portfolio website .
 <h2> Download the zip file of the code - From My Portfolio zip<h2/>
 <h2> In zip files there are three sections<h2>
 <ul>
-  <li> Index.html: Basic HTML% code</li>
+  <li> Index.html: Basic HTML5 code</li>
   <li> Images: Images on the site</li>
   <li> CSS styles</li>
   </ul>
